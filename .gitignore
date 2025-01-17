@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code workspace settings
+.vscode/
+
+# Environment variables
+.env
+
+# IDE specific files
+.idea/
+*.iml
+
+# Mac OS metadata
+.DS_Store
+
+# Ignore data files if you don't want to commit actual athlete data
+data.py
